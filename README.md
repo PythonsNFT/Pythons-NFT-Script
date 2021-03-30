@@ -7,4 +7,11 @@ I've uploaded my code used to generate PythonsNFT as free and open source under 
 
 Google and Stack Overflow were very heavily utilized and referenced throughout (and still are). My biggest obsticle was figuring out how to actually draw pixels through code to generate the Pythons. At first I was trying to compile the Pythons by merging together layers of pixel drawings I made, but this was becoming very labor intensive and I wasn't sure how to technically integrate image merges with the For loop statements, which was the one thing that felt most comfortable to me. I kept seeing references to Numpy in deep Google dives on how to draw pixels with code and once I discovered that np.array() could be used with variables to plot pixels with defined RGB values, that was the breakthrough I needed conceptually to begin pulling it all together.  This still led to many hours of trial and error but I could see a path forward. One easy change I would make/recommend to anyone using this script is to integrate the array tables and main script into one file.  Breaking them out was not necessary and was not Python Zen.
 
-In conclusion, I feel like I learned a lot and it was great first immersive dive into Python. Many things in this script could be done more effeciently and I would encourage this script be used as a starting or jumping off point and modified. I'm excited to continue my journey in programming as I continue to learn and develop!
+In conclusion, I feel like I learned a lot and it was great first immersive dive into Python. Many things in this script could be done more effeciently and I would encourage this script be used as a starting or jumping off point to be modified. 
+
+
+4 helfpfull references regarding Numpy arrays for images.
+https://bic-berkeley.github.io/psych-214-fall-2016/arrays_and_images.html
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+https://numpy.org/doc/stable/user/basics.creation.html
+https://numpy.org/doc/stable/user/basics.indexing.html
