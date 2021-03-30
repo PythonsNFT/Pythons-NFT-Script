@@ -9,7 +9,7 @@ Note on Running the Script:
 I used the IDE PyCharm to construct and execute the script, which required some manual installation of Python Interpreters through the PyCharm preferences menu. Running the script will only generate 1 image at a time
 
 
-Helfpfull references regarding Numpy arrays for images:
+Helfpful references regarding Numpy arrays for images:
 https://bic-berkeley.github.io/psych-214-fall-2016/arrays_and_images.html
 
 https://www.datacamp.com/community/tutorials/python-numpy-tutorial
@@ -23,3 +23,5 @@ Other beginner helpful resources:
 https://docs.python.org/3/tutorial/controlflow.html
 
 https://pynative.com/python-random-randrange/
+
+*edits for grammer
