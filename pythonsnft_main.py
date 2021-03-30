@@ -31,7 +31,7 @@ resize = (400, 400)
 python_image = python_image.resize(resize, resample=0)
 
 # save image
-# pythonimage.save("copy&paste_your_file_path/define_filename.png", 'PNG')
+# python_image.save("copy&paste_your_file_path/define_filename.png", 'PNG')
 
 # show image on screen
 python_image.show()
